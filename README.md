@@ -1,5 +1,4 @@
-# American-Sign-Language
-* American Sign Language is a complete, complex language but is the primary language for many deaf North Americans. 
+# American-Sign-Language 
 * The application of Artificial Intelligence (AI) techniques will help the deaf helps in understanding things in a better and more accurate way. 
 * This neural network-based model classifies the signs into 26 alphabets along with space, delete, and nothing gestures.
 * The model makes use of the layers such as the Convolution layer, Pooling layer, and fully connected layer to classify the gestures. 
